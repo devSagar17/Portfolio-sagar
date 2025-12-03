@@ -172,8 +172,8 @@ function App() {
                   <h3 className="project-title">E-commerce Platform</h3>
                   <p className="project-desc">A full-featured online store with payment integration, inventory management, and admin dashboard.</p>
                   <div className="project-btns d-flex gap-2">
-                    <Button variant="outline-primary" size="sm">Live Demo</Button>
-                    <Button variant="outline-primary" size="sm">Source Code</Button>
+                    <Button variant="outline-primary" size="sm" href="https://portfolio-sagar-pxr4.onrender.com" target="_blank">Live Demo</Button>
+                    <Button variant="outline-primary" size="sm" href="https://github.com/devSagar17/Portfolio-sagar" target="_blank">Source Code</Button>
                   </div>
                 </div>
                 
@@ -185,8 +185,8 @@ function App() {
                   <h3 className="project-title">Task Management App</h3>
                   <p className="project-desc">A productivity application with drag-and-drop interface, real-time collaboration, and analytics.</p>
                   <div className="project-btns d-flex gap-2">
-                    <Button variant="outline-primary" size="sm">Live Demo</Button>
-                    <Button variant="outline-primary" size="sm">Source Code</Button>
+                    <Button variant="outline-primary" size="sm" href="https://portfolio-sagar-pxr4.onrender.com" target="_blank">Live Demo</Button>
+                    <Button variant="outline-primary" size="sm" href="https://github.com/devSagar17/Portfolio-sagar" target="_blank">Source Code</Button>
                   </div>
                 </div>
                 
@@ -198,8 +198,8 @@ function App() {
                   <h3 className="project-title">API Gateway</h3>
                   <p className="project-desc">Scalable API gateway with rate limiting, authentication, and analytics dashboard.</p>
                   <div className="project-btns d-flex gap-2">
-                    <Button variant="outline-primary" size="sm">Live Demo</Button>
-                    <Button variant="outline-primary" size="sm">Source Code</Button>
+                    <Button variant="outline-primary" size="sm" href="https://portfolio-sagar-pxr4.onrender.com" target="_blank">Live Demo</Button>
+                    <Button variant="outline-primary" size="sm" href="https://github.com/devSagar17/Portfolio-sagar" target="_blank">Source Code</Button>
                   </div>
                 </div>
                 
@@ -211,8 +211,8 @@ function App() {
                   <h3 className="project-title">Portfolio Website</h3>
                   <p className="project-desc">Modern portfolio website with smooth animations, responsive design, and CMS integration.</p>
                   <div className="project-btns d-flex gap-2">
-                    <Button variant="outline-primary" size="sm">Live Demo</Button>
-                    <Button variant="outline-primary" size="sm">Source Code</Button>
+                    <Button variant="outline-primary" size="sm" href="https://portfolio-sagar-pxr4.onrender.com" target="_blank">Live Demo</Button>
+                    <Button variant="outline-primary" size="sm" href="https://github.com/devSagar17/Portfolio-sagar" target="_blank">Source Code</Button>
                   </div>
                 </div>
               </div>
